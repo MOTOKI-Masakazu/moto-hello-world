@@ -1,0 +1,2 @@
+# moto-hello-world
+testだよ
